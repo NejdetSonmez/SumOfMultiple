@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\TechnicalAssignment\SumOfMultiple\SumOfMultiple\bin\Debug\SumOfMultiple.exe.config
+C:\Users\ASUS\Desktop\TechnicalAssignment\SumOfMultiple\SumOfMultiple\bin\Debug\SumOfMultiple.exe
+C:\Users\ASUS\Desktop\TechnicalAssignment\SumOfMultiple\SumOfMultiple\bin\Debug\SumOfMultiple.pdb
+C:\Users\ASUS\Desktop\TechnicalAssignment\SumOfMultiple\SumOfMultiple\obj\Debug\SumOfMultiple.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\TechnicalAssignment\SumOfMultiple\SumOfMultiple\obj\Debug\SumOfMultiple.exe
+C:\Users\ASUS\Desktop\TechnicalAssignment\SumOfMultiple\SumOfMultiple\obj\Debug\SumOfMultiple.pdb
